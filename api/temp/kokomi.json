@@ -1,0 +1,92 @@
+{
+    "status": "ok",
+    "message": "SUCCESS",
+    "hidden": false,
+    "nickname": "SangonomiyaKokomi_",
+    "dog_tag": {
+        "texture_id": 0,
+        "symbol_id": 4192586672,
+        "border_color_id": 0,
+        "background_color_id": 0,
+        "background_id": 0
+    },
+    "data": {
+        "user": {
+            "leveling_tier": 17,
+            "created_at": 1560486244,
+            "leveling_points": 7377,
+            "karma": 0,
+            "last_battle_time": 1692370374
+        },
+        "pr": {
+            "battle_type": {
+                "rank_solo": {
+                    "battles_count": 309,
+                    "wins": 163,
+                    "damage_dealt": 31434307,
+                    "frags": 238,
+                    "original_exp": 620708,
+                    "value_battles_count": 309,
+                    "personal_rating": 552942.0906199999,
+                    "n_damage_dealt": 388.348503,
+                    "n_frags": 340.40376299999997
+                }
+            }
+        },
+        "seasons": {
+            "1005": {
+                "battles_count": 217,
+                "wins": 111,
+                "damage_dealt": 21979455,
+                "frags": 158,
+                "original_exp": 473807,
+                "survived": 84,
+                "hits_by_main": 11475,
+                "shots_by_main": 31221,
+                "value_battles_count": 217,
+                "personal_rating": 372335.250071,
+                "n_damage_dealt": 271.540532,
+                "n_frags": 225.98233
+            },
+            "1009": {
+                "battles_count": 33,
+                "wins": 16,
+                "damage_dealt": 2779546,
+                "frags": 15,
+                "original_exp": 45680,
+                "survived": 7,
+                "hits_by_main": 1467,
+                "shots_by_main": 3816,
+                "value_battles_count": 33,
+                "personal_rating": 42182.62216,
+                "n_damage_dealt": 34.339314,
+                "n_frags": 21.454019
+            },
+            "1008": {
+                "battles_count": 59,
+                "wins": 36,
+                "damage_dealt": 6675306,
+                "frags": 65,
+                "original_exp": 101221,
+                "survived": 21,
+                "hits_by_main": 3214,
+                "shots_by_main": 7485,
+                "value_battles_count": 59,
+                "personal_rating": 138424.218389,
+                "n_damage_dealt": 82.468657,
+                "n_frags": 92.967414
+            }
+        },
+        "clans": {
+            "clan_id": 2000023814,
+            "clan": {
+                "tag": "EXTRA",
+                "color": 13408614,
+                "name": "\u58a8\u67d3\u7684\u94a2\u94c1\u4e4b\u82b1",
+                "members_count": 48
+            },
+            "joined_at": "2023-05-20T10:47:56.684547",
+            "role": "private"
+        }
+    }
+}
